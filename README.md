@@ -1,4 +1,4 @@
-# final-project-icarus2-0
+# final-project-chat-application
 final-project-icarus2-0 created by GitHub Classroom
 
 Welcome to Flow!
