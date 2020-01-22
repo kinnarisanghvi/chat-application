@@ -4,6 +4,14 @@ final-project-chat-application created by GitHub Classroom
 Welcome to Flow!
 You can connect with your social circle by sending messages and creating group chats.
 
+Functionalities -
+
+• Designed a chat application with features such as profile creation, personal and group messaging 
+• Created an interactive user interface in Javascript implementing AngularJS, Middleware in Express.js and Node.js 
+• Implemented user authentication using JSON web token for the login functionality 
+• Stored messages using NoSQL database MongoDB to persist chat messages and group messages 
+ 
+
 How to run -
 The project has two applications in the root folder.
 1) flow-app - angular client
