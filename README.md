@@ -7,8 +7,11 @@ You can connect with your social circle by sending messages and creating group c
 Functionalities -
 
 • Designed a chat application with features such as profile creation, personal and group messaging 
+
 • Created an interactive user interface in Javascript implementing AngularJS, Middleware in Express.js and Node.js 
+
 • Implemented user authentication using JSON web token for the login functionality 
+
 • Stored messages using NoSQL database MongoDB to persist chat messages and group messages 
  
 
