@@ -1,5 +1,5 @@
 # final-project-chat-application
-final-project-icarus2-0 created by GitHub Classroom
+final-project-chat-application created by GitHub Classroom
 
 Welcome to Flow!
 You can connect with your social circle by sending messages and creating group chats.
